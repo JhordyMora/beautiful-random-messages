@@ -1,0 +1,24 @@
+{
+  "name": "beautiful-random-messages",
+  "version": "1.0.0",
+  "description": "Creating an npm package of beautiful random messages based on the javascript full stack online course of Platzi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhordyMora/beautiful-random-messages.git"
+  },
+  "keywords": [],
+  "author": "Jhordy Mora <jm@example.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JhordyMora/beautiful-random-messages/issues"
+  },
+  "homepage": "https://github.com/JhordyMora/beautiful-random-messages#readme",
+  "bin": {
+    "beautiful-random-messages": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
